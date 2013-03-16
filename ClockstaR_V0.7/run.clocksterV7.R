@@ -1,3 +1,5 @@
+
+# Version 1 in github
 # Funcions for branch distance score estimation, minimization etc...
 
 # Created Monday October 8 2012
