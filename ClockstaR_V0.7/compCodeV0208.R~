@@ -1,0 +1,7 @@
+#First load clockstar in R
+source("/Users/sebastianduchene/Dropbox/BRScore/ClockstaR_V0.7/run.clocksterV7.R")
+
+#Once clockstar is loaded the following functions are available:
+#[1] "convert.to.fasta"   "cut.trees.beta"     "get.all.groups"
+#[4] "get.all.groups.k"   "min.dist.topo"      "min.dist.topo.mat"
+#[7] "optim.edge.lengths" "run.clockster"

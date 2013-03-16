@@ -1,0 +1,9 @@
+partitions with selected k = 4 
+Partition_ 1
+nuc01
+Partition_ 2
+nuc02
+Partition_ 3
+mt12 mt13 mt14 mt15
+Partition_ 4
+nuc08

@@ -1,0 +1,7 @@
+### Clockstar parameters file
+
+Clockstar_running_mode = 1 				# 1: full, 2: cut dendrogram for a given K
+
+K = 3, 2								# Value or values for K. Separate with "," for multiple values
+
+Output_files_name = clockstar_output 	# name for the file with the output figures
